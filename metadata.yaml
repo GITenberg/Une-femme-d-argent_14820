@@ -1,0 +1,29 @@
+_repo: Une-femme-d-argent_14820
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malot, Hector
+    alias: Malot, Hector-Henri
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '1350'
+    url: http://www.gutenberg.org/2009/agents/1350
+    wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14820'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Une femme d'argent
+url: http://www.gutenberg.org/ebooks/14820
