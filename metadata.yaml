@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1350
     wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14820#Une-femme-d-argent
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-01-27'
 gutenberg_type: Text
